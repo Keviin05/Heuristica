@@ -9,7 +9,7 @@ import org.jacop.search.SelectChoicePoint;
 import org.jacop.search.SimpleSelect;
 import org.jacop.search.SmallestDomain;
 
-
+/*Esto lo pongo yo*/
 public class practica2_1 {
 	public static void guardarLab_Matriz(String archivo) throws FileNotFoundException, IOException {
 		String cadena;
